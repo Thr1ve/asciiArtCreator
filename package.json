@@ -1,0 +1,24 @@
+{
+  "name": "asciiArtCreator",
+  "version": "1.0.0",
+  "description": "### A simple example program to create ascii art in your browser's console.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d './'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thr1ve/asciiArtCreator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thr1ve/asciiArtCreator/issues"
+  },
+  "homepage": "https://github.com/Thr1ve/asciiArtCreator#readme",
+  "devDependencies": {
+    "gh-pages": "^0.11.0"
+  }
+}
